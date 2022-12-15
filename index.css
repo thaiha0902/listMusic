@@ -1,0 +1,23 @@
+body {
+    background-image: url("pic.jpeg");
+    font-family: 'Lobster', cursive;
+    background-size: cover;
+}
+h1 {
+    color: rgb(254, 128, 128);
+    font-size: 50px;
+   
+}
+#music {
+    text-decoration: none;
+	color: rgb(255, 102, 102);
+    border: 1px solid rgb(254, 128, 128);
+    border-radius: 15px;
+    padding: 22px 33px;
+    background-color: rgba(240, 248, 255, 0.738);
+   
+}
+ul {
+    list-style-type: none;
+   
+}
